@@ -1,4 +1,4 @@
-## Book Store API
+## ShelfCart
 
 ## 1. Introduction
 This project is a RESTful API built with Spring Boot 3 for a comprehensive Book Store application. It features secure JWT-based authentication, a MySQL database configured via Docker, and functionalities for managing books, categories, shopping carts, and user orders. The application is fully containerized and includes interactive API documentation powered by Swagger/OpenAPI.
