@@ -20,8 +20,8 @@ This project is a RESTful API built with Spring Boot 3 for a comprehensive Book 
 
 ### Clone
 ```bash
-git clone https://github.com/gubber230/spring-projects.git
-cd spring-projects
+git clone https://github.com/gubber230/shelfcart.git
+cd shelfcart
 ```
 
 ### Environment Variables
